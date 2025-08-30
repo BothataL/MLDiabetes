@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 #import os
-
+import scikit-learn
 st.title("Welcome to Diabetes Test")
 st.header("Please fill in your details")
 
